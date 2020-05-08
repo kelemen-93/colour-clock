@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  font-family: "Work Sans", sans-serif;
+  font-size: 50px;
+  margin-top: -25px;
+}
+
+html, body {
+  height: 100%;
+}
